@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Travel Friends</string>
+    <string name="title_activity_offer_ride_source">OfferRideSource</string>
+</resources>

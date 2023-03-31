@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447108591863",
+    "project_id": "travel-friends-5e3ad",
+    "storage_bucket": "travel-friends-5e3ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447108591863:android:c6f32fb4041ce44a9023f2",
+        "android_client_info": {
+          "package_name": "com.example.travelfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447108591863-ajinae5tb62rhpqaorovelh4l131jnjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR9df35hqJThtQHW-Idx1BlBlitfAtfqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447108591863-ajinae5tb62rhpqaorovelh4l131jnjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
